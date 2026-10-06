@@ -1,0 +1,45 @@
+{
+  "input": {
+    "id": "jev-promo-vrai-prix-demo",
+    "offer": {
+      "docId": "a",
+      "productCode": "DEMO-CAFE",
+      "units": 2,
+      "quantityGrams": 250,
+      "totalCents": 800,
+      "shippingCents": 0,
+      "loyaltyCents": 200,
+      "advertisedDiscountPercent": 25,
+      "description": "25 % d’économie avec 2 euros crédités sur la carte pour le lot de deux.",
+      "terms": "Lot de deux paquets à 8 euros. Carte requise ; crédit de 2 euros utilisable lors d’un achat ultérieur."
+    },
+    "reference": {
+      "docId": "b",
+      "productCode": "DEMO-CAFE",
+      "unitCents": 400,
+      "date": "2026-09-28"
+    }
+  },
+  "documents": [
+    {
+      "id": "a",
+      "file": "pieces/a.txt",
+      "source": {
+        "uri": "fixture:a",
+        "date": "2026-10-06",
+        "kind": "synthetique",
+        "licence": "CC0-1.0"
+      }
+    },
+    {
+      "id": "b",
+      "file": "pieces/b.txt",
+      "source": {
+        "uri": "fixture:b",
+        "date": "2026-10-06",
+        "kind": "synthetique",
+        "licence": "CC0-1.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+DEMO-CAFE
+2
+250
+800
+0
+200
+25
+25 % d’économie avec 2 euros crédités sur la carte pour le lot de deux.
+Lot de deux paquets à 8 euros. Carte requise ; crédit de 2 euros utilisable lors d’un achat ultérieur.
